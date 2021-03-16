@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\alefe\onedrive\Área de trabalho\buffer_circular\buffer\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1601996824 source:c:\users\alefe\onedrive\Área de trabalho\buffer_circular\buffer\buffer.c
+	<stdio.h>
+
